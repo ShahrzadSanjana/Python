@@ -1,1 +1,1 @@
-# Python-JupyterNotebook-Bacis-exercises-
+# Python-JupyterNotebook-Basic-exercises-
